@@ -33,6 +33,7 @@ With these tools and my previous knowledge, I have developed code for the analys
 
 ```bash
 python script.py target_file.c
+```
 
 ## Functionality
 
